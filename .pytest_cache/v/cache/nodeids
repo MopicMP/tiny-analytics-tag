@@ -1,0 +1,5 @@
+[
+  "tests/test_tiny_analytics_tag.py::TestTag::test_basic",
+  "tests/test_tiny_analytics_tag.py::TestTag::test_empty",
+  "tests/test_tiny_analytics_tag.py::TestTag::test_type_error"
+]
